@@ -20,7 +20,13 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ServiceLifetimeDemonstration", "src\ServiceLifetimeDemonstration\ServiceLifetimeDemonstration.csproj", "{B556C9E0-3C11-4BAA-8B1F-9374A293292D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WeatherService.Api", "src\WeatherService.Api\WeatherService.Api.csproj", "{82B830E5-B178-4B54-8A1F-D35960483DA0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WeatherService.Api", "src\WeatherService.Api\WeatherService.Api.csproj", "{82B830E5-B178-4B54-8A1F-D35960483DA0}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ReadMe", "ReadMe", "{244A0D56-D642-48A5-A48F-5061CCAFF0C5}"
+	ProjectSection(SolutionItems) = preProject
+		ReadMe\1.Intro.TXT = ReadMe\1.Intro.TXT
+		ReadMe\TennisBooking_ER.png = ReadMe\TennisBooking_ER.png
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
